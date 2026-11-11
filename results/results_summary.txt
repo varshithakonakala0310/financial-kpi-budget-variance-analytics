@@ -1,0 +1,11 @@
+Financial KPI Budget Variance Analytics — SYNTHETIC RESULTS
+Departments: 6, Months: 12 (2024), Rows: 72
+Total budget: GBP 13043574.49, Total actual: GBP 12866123.04, Overall variance: -1.36%
+KPI flags: OVER_BUDGET=10, UNDER_BUDGET=18, ON_TRACK=44
+  Finance: budget=GBP 1426818.58 actual=GBP 1401243.81 variance=-1.79%
+  HR: budget=GBP 1716961.78 actual=GBP 1727629.32 variance=0.62%
+  IT: budget=GBP 2593195.82 actual=GBP 2489569.12 variance=-4.00%
+  Marketing: budget=GBP 1521643.29 actual=GBP 1549872.88 variance=1.86%
+  Operations: budget=GBP 2886744.23 actual=GBP 2735992.25 variance=-5.22%
+  Sales: budget=GBP 2898210.79 actual=GBP 2961815.66 variance=2.19%
+Largest absolute department variance: Operations (-5.22%)
